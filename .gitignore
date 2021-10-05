@@ -1,0 +1,8 @@
+.idea/
+*.iml
+*.retry
+.ansible/
+.terraform/
+*.zip
+__pycache__
+*.pyc
